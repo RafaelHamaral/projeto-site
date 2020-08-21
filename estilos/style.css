@@ -4,15 +4,16 @@
 }
 
 body {
-    background-color: rgb(164, 165, 233);
+    background-color: #acacff;
+
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
 h1 {
@@ -21,19 +22,18 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
 
-
 img.lado {
-    float:right;
+    float: right;
 }
 
 a {
-    text-decoration:none;
+    text-decoration: none;
     font-weight: bold;
-    color: rgb(58, 0, 12);
+    color: rgb(58, 0, 112);
 }
 
 a:hover {
